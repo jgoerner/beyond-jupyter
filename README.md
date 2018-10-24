@@ -1,6 +1,7 @@
 # Beyond Jupyter Notebooks 🚀
 All material from the PyCon.DE 2018 Talk "Beyond Jupyter Notebooks - Building your own data science platform with Python &amp; Docker"
 ## Ressources of the presentation
+- [Slides of the PyCon Talk(https://github.com/jgoerner/beyond-jupyter/blob/master/PyCon2018.pdf)
 - [Cookiecutter for the Data-Science-Stack](https://github.com/jgoerner/data-science-stack-cookiecutter)
 - [Beyond Jupyter Notebooks MOOC](http://beyond-jupyter.io/)
 - ["Data Science is Software" (Talk)](https://www.youtube.com/watch?v=EKUy0TSLg04)
